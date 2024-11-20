@@ -12,23 +12,23 @@
 ### Employee Page (Raw View)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7cce453-21d8-4886-9fe8-c93dade30f4e" width="400" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/6db1c6a3-3379-42fc-ad70-27ca8b106bbb" width="400" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/41016bbe-d723-41be-ba95-95d337342016" width="400" />
+  <img src="https://github.com/user-attachments/assets/d7cce453-21d8-4886-9fe8-c93dade30f4e" width="350" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/6db1c6a3-3379-42fc-ad70-27ca8b106bbb" width="350" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/41016bbe-d723-41be-ba95-95d337342016" width="350" />
 </p>
 
 ### Employee Page with Filter
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8c68a6dd-63bc-44d4-b5f9-9c5028ffcbee" width="600" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/37466329-7332-4362-8cf5-6364e7ab6cb7" width="600" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/60c18f0c-48f1-49fe-9762-33ed4fc3981a" width="600" />
+  <img src="https://github.com/user-attachments/assets/8c68a6dd-63bc-44d4-b5f9-9c5028ffcbee" width="375" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/37466329-7332-4362-8cf5-6364e7ab6cb7" width="375" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/60c18f0c-48f1-49fe-9762-33ed4fc3981a" width="375" />
 </p>
 
 ### Employee Page with Detail Changes
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42e057ae-a669-4827-ba6d-5e6534bf8e88" width="500" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/207c43a2-68ef-4ea4-8ba9-dc2d03c1af06" width="500" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/4dc2f985-80d7-4d85-8beb-70ba18cbc457" width="500" />
+  <img src="https://github.com/user-attachments/assets/42e057ae-a669-4827-ba6d-5e6534bf8e88" width="390" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/207c43a2-68ef-4ea4-8ba9-dc2d03c1af06" width="390" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/4dc2f985-80d7-4d85-8beb-70ba18cbc457" width="390" />
 </p>
