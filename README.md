@@ -12,9 +12,9 @@
 ### Employee Page (Raw View)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d7cce453-21d8-4886-9fe8-c93dade30f4e" width="320" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/6db1c6a3-3379-42fc-ad70-27ca8b106bbb" width="320" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/41016bbe-d723-41be-ba95-95d337342016" width="320" />
+  <img src="https://github.com/user-attachments/assets/d7cce453-21d8-4886-9fe8-c93dade30f4e" width="330" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/6db1c6a3-3379-42fc-ad70-27ca8b106bbb" width="330" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/41016bbe-d723-41be-ba95-95d337342016" width="330" />
 </p>
 
 ### Employee Page with Filter
@@ -28,7 +28,7 @@
 ### Employee Page with Detail Changes
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/42e057ae-a669-4827-ba6d-5e6534bf8e88" width="340" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/207c43a2-68ef-4ea4-8ba9-dc2d03c1af06" width="340" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/4dc2f985-80d7-4d85-8beb-70ba18cbc457" width="340" />
+  <img src="https://github.com/user-attachments/assets/42e057ae-a669-4827-ba6d-5e6534bf8e88" width="330" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/207c43a2-68ef-4ea4-8ba9-dc2d03c1af06" width="330" style="margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/4dc2f985-80d7-4d85-8beb-70ba18cbc457" width="330" />
 </p>
